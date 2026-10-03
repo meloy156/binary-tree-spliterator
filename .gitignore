@@ -1,0 +1,26 @@
+# Compiled classes
+out/
+target/
+build/
+*.class
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# ВАЖНО: JAR-ники из lib/ НЕ игнорируем — они нужны для тестов
+# lib/*.jar  ← НЕ добавляй эту строчку, иначе тесты не запустятся
