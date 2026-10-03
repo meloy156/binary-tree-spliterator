@@ -1,5 +1,6 @@
 # Compiled classes
 out/
+src/java-advanced-2026
 target/
 build/
 *.class
